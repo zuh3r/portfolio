@@ -140,9 +140,10 @@ const About = () => {
                         </div>
                         <h3>Software Engineer</h3>
                         <p>
-                        - Predominantly front-end development using React TypeScript on AWS hosted applications<br/>
-                        - Regularly deploy code to prod environments with Jenkins
-                        - Utilised unit tests to ensure functionality of all code additions and bug fixes{" "}
+                        - Developed a tool that allows users to find & link existing customer profiles, resulting in pre-filling details for the user<br/>
+                        - Utilised unit tests to ensure functionality of all code additions and bug fixes
+                        - Deploy code to non-prod environments for QE, and fortnightly to prod using Jenkins
+                        - Monthly ECS & EC2 instance patching in line with company policy{" "}
                         </p>
                       </div>
                     </li>
