@@ -132,6 +132,20 @@ const About = () => {
                 {/* Boxed List */}
                 <div className="resumo_fn_boxed_list">
                   <ul>
+                  <li>
+                      <div className="item">
+                        <div className="item_top">
+                          <h5>National Australia Bank</h5>
+                          <span>July 2022 - Present</span>
+                        </div>
+                        <h3>Software Engineer</h3>
+                        <p>
+                        - Predominantly front-end development using React TypeScript on AWS hosted applications<br/>
+                        - Regularly deploy code to prod environments with Jenkins
+                        - Utilised unit tests to ensure functionality of all code additions and bug fixes{" "}
+                        </p>
+                      </div>
+                    </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
@@ -145,7 +159,7 @@ const About = () => {
                         </p>
                       </div>
                     </li>
-                    <li>
+                    {/* <li>
                       <div className="item">
                         <div className="item_top">
                           <h5>G-STAR RAW</h5>
@@ -160,7 +174,7 @@ Assistant Manager & Visual Merchandiser</h3>
                         {" "}
                         </p>
                       </div>
-                    </li>
+                    </li> */}
                     {/* <li>
                       <div className="item">
                         <div className="item_top">
