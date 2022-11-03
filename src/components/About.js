@@ -141,8 +141,8 @@ const About = () => {
                         <h3>Software Engineer</h3>
                         <p>
                         - Developed a tool that allows users to find & link existing customer profiles, resulting in pre-filling details for the user<br/>
-                        - Utilised unit tests to ensure functionality of all code additions and bug fixes
-                        - Deploy code to non-prod environments for QE, and fortnightly to prod using Jenkins
+                        - Utilised unit tests to ensure functionality of all code additions and bug fixes<br/>
+                        - Deploy code to non-prod environments for QE, and fortnightly to prod using Jenkins<br/>
                         - Monthly ECS & EC2 instance patching in line with company policy{" "}
                         </p>
                       </div>
